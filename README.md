@@ -20,7 +20,7 @@ Ce TP fait suite au TP (authentification en mémoire) et introduit la notion de 
 <img width="574" height="745" alt="image" src="https://github.com/user-attachments/assets/13cbe45d-4cf9-4a06-821f-07eee5d26642" />
 
 
-##  Comment Lancer le Projet
+##  Résultat :
 
 
 http://localhost:8080/login
