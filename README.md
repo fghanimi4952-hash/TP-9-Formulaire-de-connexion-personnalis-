@@ -1,6 +1,6 @@
 
 # name: "TP – Spring Security Login Form"
-## escription: 
+## Description: 
   Ce projet montre comment créer une page de connexion personnalisée
   avec Spring Security, gérer l’authentification, les rôles (USER/ADMIN),
   la redirection et la protection des routes.
