@@ -1,6 +1,6 @@
 
 # name: "TP – Spring Security Login Form"
-## description: 
+## escription: 
   Ce projet montre comment créer une page de connexion personnalisée
   avec Spring Security, gérer l’authentification, les rôles (USER/ADMIN),
   la redirection et la protection des routes.
@@ -20,24 +20,6 @@ Ce TP fait suite au TP (authentification en mémoire) et introduit la notion de 
 <img width="574" height="745" alt="image" src="https://github.com/user-attachments/assets/13cbe45d-4cf9-4a06-821f-07eee5d26642" />
 
 
-
-
-## 🔎 Pages à Tester (localhost)
-
-http://localhost:8080/login
-
-http://localhost:8080/login?error=true
-
-http://localhost:8080/login?logout=true
-
-http://localhost:8080/home
-
-http://localhost:8080/user/dashboard
-
-http://localhost:8080/admin/dashboard
-
-http://localhost:8080/logout
-
 ## ▶️ Comment Lancer le Projet
 
 Importer le projet dans IntelliJ IDEA
@@ -54,6 +36,6 @@ http://localhost:8080/login
 https://github.com/user-attachments/assets/de3be748-4848-44dc-bcb1-73fd92c6fc3c
 
  ## Auteur
-Jamila Dabachine
+
 Master : Technologies Émergentes en Éducation – ENS Marrakech
 Année : 2025
